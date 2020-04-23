@@ -2,4 +2,4 @@
 
 Project Web Adress: 
 
-https://limitless-ravine-31140.herokuapp.com/
+https://social-network-app-base.herokuapp.com/
